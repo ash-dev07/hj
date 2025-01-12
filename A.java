@@ -1,6 +1,6 @@
 class A{
     public static int test(){
-        return 7;
+        return 5;
 
     }
     public static void main(String[] args) {
